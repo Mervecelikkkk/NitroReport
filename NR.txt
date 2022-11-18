@@ -1,0 +1,39 @@
+Sistem güncellemeleri
+
+·         Raporlama bölümde bayi ıd leri yok ilave edilmesi lazım (uygulamalistesi---bayiid) dashboardlara da  +++
+
+           (il ve personel filtreleme)  +++
+
+           Kullanıcı sayfasına il texti koy +++
+
+·         Hangi il, hangi spv hangi  tarihte ne yapmış görebilmeliyiz ( spv lerin günlük yaptıkları rakamlar ve toplu rakamlar vsvs) ?
+
+·         Uygulama yapılan ve kalan bayi listesini excel olarak alabilmek +++
+
+·         Fotoğrafları  tıklayarak geçmek  ve döndürmek, mümkünse indir butonu  (lightbox ekleme) hepsine 
+
+·         Bayiye gidildiğinde uygulama yapılmış mı sorusunda  ( bayide eksik uygulama yapılmış şıkkı en altta çıkıyor onu en başa almak gerekiyor) +++
+
+·         Spv lerin ekranında günlük gittikleri bayi sayıları ve toplam bayi sayıları ?  (karta top uyg sv)
+
+ 
+    
+ 
+
+ 
+
+Kazı kazanda değişiklikler mevcut
+
+·         Kazı kazan satmıyorsa sebepleri arasına  KOMİSYON ORANI şıkkını eklemek gerekiyor
+
+·          
+
+·         Kazı kazan varmı YOK seçilince Sipariş verdinizmi sorusuda HAYIR seçilirse aşağıdaki şıklar boş seçilmesi gerekiyor.
+
+·         Kazı Kazan Poster
+
+·         Kazı kazan ünite      şıkları boş seçilecektir.
+
+ 
+
+·         Kazı Kazan varmı ?  VAR ı seçince  Satmıyorsa sebebi çıkıyor onu kaldırmak lazım. ?
